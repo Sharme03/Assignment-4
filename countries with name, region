@@ -2,6 +2,7 @@ Use the same rest countries and print all countries name, region, sub region and
 
 Ans:
 
+var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 var xhr = new XMLHttpRequest();
 xhr.open("GET","https://raw.githubusercontent.com/rvsp/restcountries-json-data/master/res-countries.json");
 xhr.send();
