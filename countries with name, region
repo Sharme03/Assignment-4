@@ -3,21 +3,52 @@ Use the same rest countries and print all countries name, region, sub region and
 Ans:
 
 var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
-var xhr = new XMLHttpRequest();
-xhr.open("GET","https://raw.githubusercontent.com/rvsp/restcountries-json-data/master/res-countries.json");
-xhr.send();
+function loadJSON(path, success, error) {
 
-xhr.onload=function(){
-    if(xhr.status>=200 && xhr.status<300){
-        var data=JSON.parse(xhr.response);
-        for(var i=0; i<data.length; i++){
-            console.log(data[i].name);
-            console.log(data[i].region);
-            console.log(data[i].subregion);
-            console.log(data[i].population);
+    var xhr = new XMLHttpRequest();
+ 
+    xhr.onload = function () {
+ 
+      if (xhr.readyState === 4) {
+ 
+        if (xhr.status === 200) {
+ 
+          success(JSON.parse(xhr.responseText));
+ 
         }
-    }
-    else{
-        console.log("Data is not available");
-    }
-}
+ 
+        else {
+ 
+          error(xhr);
+ 
+        }
+ 
+      }
+ 
+    };
+ 
+    xhr.open('GET', path, true);
+ 
+    xhr.send();
+ 
+   }
+ 
+   loadJSON("https://restcountries.com/v2/all", myData,'jsonp');
+ 
+  
+ 
+   function myData(Data){
+ 
+  
+ 
+    // Output only the details on the first post
+ 
+    console.log(Data);
+ 
+   Data.forEach((d) =>{
+ 
+    console.log(`${d.name} ${d.capital} ${d.flag}`)  
+ 
+   });
+ 
+   }
