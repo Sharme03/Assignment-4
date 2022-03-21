@@ -1,0 +1,1009 @@
+Use the same rest countries and print all countries name, region, sub region and population
+
+Output :
+
+ altSpellings: [ 'GM', 'Republic of the Gambia' ],
+    subregion: 'Western Africa',
+    region: 'Africa',
+    population: 2416664,
+    latlng: [ 13.46666666, -16.56666666 ],
+    demonym: 'Gambian',
+    area: 11295,
+    gini: 35.9,
+    timezones: [ 'UTC+00:00' ],
+    borders: [ 'SEN' ],
+    nativeName: 'Gambia',
+    numericCode: '270',
+    flags: {
+      svg: 'https://flagcdn.com/gm.svg',
+      png: 'https://flagcdn.com/w320/gm.png'
+    },
+    currencies: [ [Object] ],
+    languages: [ [Object] ],
+    translations: {
+      br: 'Gâmbia',
+      pt: 'Gâmbia',
+      nl: 'Gambia',
+      hr: 'Gambija',
+      fa: 'گامبیا',
+      de: 'Gambia',
+      es: 'Gambia',
+      fr: 'Gambie',
+      ja: 'ガンビア',
+      it: 'Gambia',
+      hu: 'Gambia'
+    },
+    flag: 'https://flagcdn.com/gm.svg',
+    regionalBlocs: [ [Object] ],
+    cioc: 'GAM',
+    independent: true
+  },
+  {
+    name: 'Georgia',
+    topLevelDomain: [ '.ge' ],
+    alpha2Code: 'GE',
+    alpha3Code: 'GEO',
+    callingCodes: [ '995' ],
+    capital: 'Tbilisi',
+    altSpellings: [ 'GE', 'Sakartvelo' ],
+    subregion: 'Western Asia',
+    region: 'Asia',
+    population: 3714000,
+    latlng: [ 42, 43.5 ],
+    demonym: 'Georgian',
+    area: 69700,
+    gini: 35.9,
+    timezones: [ 'UTC-04:00' ],
+    borders: [ 'ARM', 'AZE', 'RUS', 'TUR' ],
+    nativeName: 'საქართველო',
+    numericCode: '268',
+    flags: {
+      svg: 'https://flagcdn.com/ge.svg',
+      png: 'https://flagcdn.com/w320/ge.png'
+    },
+    currencies: [ [Object] ],
+    languages: [ [Object] ],
+    translations: {
+      br: 'Geórgia',
+      pt: 'Geórgia',
+      nl: 'Georgië',
+      hr: 'Németország',
+      fa: 'گرجستان',
+      de: 'Georgien',
+      es: 'Georgia',
+      fr: 'Géorgie',
+      ja: 'グルジア',
+      it: 'Georgia',
+      hu: 'Grúzia'
+    },
+    flag: 'https://flagcdn.com/ge.svg',
+    cioc: 'GEO',
+    independent: true
+  },
+  {
+    name: 'Germany',
+    topLevelDomain: [ '.de' ],
+    alpha2Code: 'DE',
+    alpha3Code: 'DEU',
+    callingCodes: [ '49' ],
+    capital: 'Berlin',
+    altSpellings: [
+      'DE',
+      'Federal Republic of Germany',
+      'Bundesrepublik Deutschland'
+    ],
+    subregion: 'Central Europe',
+    region: 'Europe',
+    population: 83240525,
+    latlng: [ 51, 9 ],
+    demonym: 'German',
+    area: 357114,
+    gini: 31.9,
+    timezones: [ 'UTC+01:00' ],
+    borders: [
+      'AUT', 'BEL',
+      'CZE', 'DNK',
+      'FRA', 'LUX',
+      'NLD', 'POL',
+      'CHE'
+    ],
+    nativeName: 'Deutschland',
+    numericCode: '276',
+    flags: {
+      svg: 'https://flagcdn.com/de.svg',
+      png: 'https://flagcdn.com/w320/de.png'
+    },
+    currencies: [ [Object] ],
+    languages: [ [Object] ],
+    translations: {
+      br: 'Alemanha',
+      pt: 'Alemanha',
+      nl: 'Duitsland',
+      hr: 'Njemačka',
+      fa: 'آلمان',
+      de: 'Deutschland',
+      es: 'Alemania',
+      fr: 'Allemagne',
+      ja: 'ドイツ',
+      it: 'Germania',
+      hu: 'Grúzia'
+    },
+    flag: 'https://flagcdn.com/de.svg',
+    regionalBlocs: [ [Object] ],
+    cioc: 'GER',
+    independent: true
+  },
+  {
+    name: 'Ghana',
+    topLevelDomain: [ '.gh' ],
+    alpha2Code: 'GH',
+    alpha3Code: 'GHA',
+    callingCodes: [ '233' ],
+    capital: 'Accra',
+    altSpellings: [ 'GH' ],
+    subregion: 'Western Africa',
+    region: 'Africa',
+    population: 31072945,
+    latlng: [ 8, -2 ],
+    demonym: 'Ghanaian',
+    area: 238533,
+    gini: 43.5,
+    timezones: [ 'UTC' ],
+    borders: [ 'BFA', 'CIV', 'TGO' ],
+    nativeName: 'Ghana',
+    numericCode: '288',
+    flags: {
+      svg: 'https://flagcdn.com/gh.svg',
+      png: 'https://flagcdn.com/w320/gh.png'
+    },
+    currencies: [ [Object] ],
+    languages: [ [Object] ],
+    translations: {
+      br: 'Gana',
+      pt: 'Gana',
+      nl: 'Ghana',
+      hr: 'Gana',
+      fa: 'غنا',
+      de: 'Ghana',
+      es: 'Ghana',
+      fr: 'Ghana',
+      ja: 'ガーナ',
+      it: 'Ghana',
+      hu: 'Ghána'
+    },
+    flag: 'https://flagcdn.com/gh.svg',
+    regionalBlocs: [ [Object] ],
+    cioc: 'GHA',
+    independent: true
+  },
+  {
+    name: 'Gibraltar',
+    topLevelDomain: [ '.gi' ],
+    alpha2Code: 'GI',
+    alpha3Code: 'GIB',
+    callingCodes: [ '350' ],
+    capital: 'Gibraltar',
+    altSpellings: [ 'GI' ],
+    subregion: 'Southern Europe',
+    region: 'Europe',
+    population: 33691,
+    latlng: [ 36.13333333, -5.35 ],
+    demonym: 'Gibraltar',
+    area: 6,
+    timezones: [ 'UTC+01:00' ],
+    borders: [ 'ESP' ],
+    nativeName: 'Gibraltar',
+    numericCode: '292',
+    flags: {
+      svg: 'https://flagcdn.com/gi.svg',
+      png: 'https://flagcdn.com/w320/gi.png'
+    },
+    currencies: [ [Object] ],
+    languages: [ [Object] ],
+    translations: {
+      br: 'Gibraltar',
+      pt: 'Gibraltar',
+      nl: 'Gibraltar',
+      hr: 'Gibraltar',
+      fa: 'جبل‌طارق',
+      de: 'Gibraltar',
+      es: 'Gibraltar',
+      fr: 'Gibraltar',
+      ja: 'ジブラルタル',
+      it: 'Gibilterra',
+      hu: 'Gibraltár'
+    },
+    flag: 'https://flagcdn.com/gi.svg',
+    regionalBlocs: [ [Object] ],
+    independent: false
+  },
+  {
+    name: 'Greece',
+    topLevelDomain: [ '.gr' ],
+    alpha2Code: 'GR',
+    alpha3Code: 'GRC',
+    callingCodes: [ '30' ],
+    capital: 'Athens',
+    altSpellings: [ 'GR', 'Elláda', 'Hellenic Republic', 'Ελληνική Δημοκρατία' ],
+    subregion: 'Southern Europe',
+    region: 'Europe',
+    population: 10715549,
+    latlng: [ 39, 22 ],
+    demonym: 'Greek',
+    area: 131990,
+    gini: 32.9,
+    timezones: [ 'UTC+02:00' ],
+    borders: [ 'ALB', 'BGR', 'TUR', 'MKD' ],
+    nativeName: 'Ελλάδα',
+    numericCode: '300',
+    flags: {
+      svg: 'https://flagcdn.com/gr.svg',
+      png: 'https://flagcdn.com/w320/gr.png'
+    },
+    currencies: [ [Object] ],
+    languages: [ [Object] ],
+    translations: {
+      br: 'Grécia',
+      pt: 'Grécia',
+      nl: 'Griekenland',
+      hr: 'Grčka',
+      fa: 'یونان',
+      de: 'Griechenland',
+      es: 'Grecia',
+      fr: 'Grèce',
+      ja: 'ギリシャ',
+      it: 'Grecia',
+      hu: 'Görögország'
+    },
+    flag: 'https://flagcdn.com/gr.svg',
+    regionalBlocs: [ [Object] ],
+    cioc: 'GRE',
+    independent: true
+  },
+  {
+    name: 'Greenland',
+    topLevelDomain: [ '.gl' ],
+    alpha2Code: 'GL',
+    alpha3Code: 'GRL',
+    callingCodes: [ '299' ],
+    capital: 'Nuuk',
+    altSpellings: [ 'GL', 'Grønland' ],
+    subregion: 'Northern America',
+    region: 'Americas',
+    population: 56367,
+    latlng: [ 72, -40 ],
+    demonym: 'Greenlandic',
+    area: 2166086,
+    timezones: [ 'UTC-04:00', 'UTC-03:00', 'UTC-01:00', 'UTC+00:00' ],
+    nativeName: 'Kalaallit Nunaat',
+    numericCode: '304',
+    flags: {
+      svg: 'https://flagcdn.com/gl.svg',
+      png: 'https://flagcdn.com/w320/gl.png'
+    },
+    currencies: [ [Object] ],
+    languages: [ [Object] ],
+    translations: {
+      br: 'Groelândia',
+      pt: 'Gronelândia',
+      nl: 'Groenland',
+      hr: 'Grenland',
+      fa: 'گرینلند',
+      de: 'Grönland',
+      es: 'Groenlandia',
+      fr: 'Groenland',
+      ja: 'グリーンランド',
+      it: 'Groenlandia',
+      hu: 'Grönland'
+    },
+    flag: 'https://flagcdn.com/gl.svg',
+    independent: false
+  },
+  {
+    name: 'Grenada',
+    topLevelDomain: [ '.gd' ],
+    alpha2Code: 'GD',
+    alpha3Code: 'GRD',
+    callingCodes: [ '1' ],
+    capital: "St. George's",
+    altSpellings: [ 'GD' ],
+    subregion: 'Caribbean',
+    region: 'Americas',
+    population: 112519,
+    latlng: [ 12.11666666, -61.66666666 ],
+    demonym: 'Grenadian',
+    area: 344,
+    timezones: [ 'UTC-04:00' ],
+    nativeName: 'Grenada',
+    numericCode: '308',
+    flags: {
+      svg: 'https://flagcdn.com/gd.svg',
+      png: 'https://flagcdn.com/w320/gd.png'
+    },
+    currencies: [ [Object] ],
+    languages: [ [Object] ],
+    translations: {
+      br: 'Granada',
+      pt: 'Granada',
+      nl: 'Grenada',
+      hr: 'Grenada',
+      fa: 'گرنادا',
+      de: 'Grenada',
+      es: 'Grenada',
+      fr: 'Grenade',
+      ja: 'グレナダ',
+      it: 'Grenada',
+      hu: 'Grenada'
+    },
+    flag: 'https://flagcdn.com/gd.svg',
+    regionalBlocs: [ [Object] ],
+    cioc: 'GRN',
+    independent: true
+  },
+  {
+    name: 'Guadeloupe',
+    topLevelDomain: [ '.gp' ],
+    alpha2Code: 'GP',
+    alpha3Code: 'GLP',
+    callingCodes: [ '590' ],
+    capital: 'Basse-Terre',
+    altSpellings: [ 'GP', 'Gwadloup' ],
+    subregion: 'Caribbean',
+    region: 'Americas',
+    population: 400132,
+    latlng: [ 16.25, -61.583333 ],
+    demonym: 'Guadeloupian',
+    timezones: [ 'UTC-04:00' ],
+    nativeName: 'Guadeloupe',
+    numericCode: '312',
+    flags: {
+      svg: 'https://flagcdn.com/gp.svg',
+      png: 'https://flagcdn.com/w320/gp.png'
+    },
+    currencies: [ [Object] ],
+    languages: [ [Object] ],
+    translations: {
+      br: 'Guadalupe',
+      pt: 'Guadalupe',
+      nl: 'Guadeloupe',
+      hr: 'Gvadalupa',
+      fa: 'جزیره گوادلوپ',
+      de: 'Guadeloupe',
+      es: 'Guadalupe',
+      fr: 'Guadeloupe',
+      ja: 'グアドループ',
+      it: 'Guadeloupa',
+      hu: 'Guadeloupe'
+    },
+    flag: 'https://flagcdn.com/gp.svg',
+    independent: false
+  },
+  {
+    name: 'Guam',
+    topLevelDomain: [ '.gu' ],
+    alpha2Code: 'GU',
+    alpha3Code: 'GUM',
+    callingCodes: [ '1' ],
+    capital: 'Hagåtña',
+    altSpellings: [ 'GU', 'Guåhån' ],
+    subregion: 'Micronesia',
+    region: 'Oceania',
+    population: 168783,
+    latlng: [ 13.46666666, 144.78333333 ],
+    demonym: 'Guamanian',
+    area: 549,
+    timezones: [ 'UTC+10:00' ],
+    nativeName: 'Guam',
+    numericCode: '316',
+    flags: {
+      svg: 'https://flagcdn.com/gu.svg',
+      png: 'https://flagcdn.com/w320/gu.png'
+    },
+    currencies: [ [Object] ],
+    languages: [ [Object], [Object], [Object] ],
+    translations: {
+      br: 'Guam',
+      pt: 'Guame',
+      nl: 'Guam',
+      hr: 'Guam',
+      fa: 'گوام',
+      de: 'Guam',
+      es: 'Guam',
+      fr: 'Guam',
+      ja: 'グアム',
+      it: 'Guam',
+      hu: 'Guam'
+    },
+    flag: 'https://flagcdn.com/gu.svg',
+    cioc: 'GUM',
+    independent: false
+  },
+  {
+    name: 'Guatemala',
+    topLevelDomain: [ '.gt' ],
+    alpha2Code: 'GT',
+    alpha3Code: 'GTM',
+    callingCodes: [ '502' ],
+    capital: 'Guatemala City',
+    altSpellings: [ 'GT' ],
+    subregion: 'Central America',
+    region: 'Americas',
+    population: 16858333,
+    latlng: [ 15.5, -90.25 ],
+    demonym: 'Guatemalan',
+    area: 108889,
+    gini: 48.3,
+    timezones: [ 'UTC-06:00' ],
+    borders: [ 'BLZ', 'SLV', 'HND', 'MEX' ],
+    nativeName: 'Guatemala',
+    numericCode: '320',
+    flags: {
+      svg: 'https://flagcdn.com/gt.svg',
+      png: 'https://flagcdn.com/w320/gt.png'
+    },
+    currencies: [ [Object] ],
+    languages: [ [Object] ],
+    translations: {
+      br: 'Guatemala',
+      pt: 'Guatemala',
+      nl: 'Guatemala',
+      hr: 'Gvatemala',
+      fa: 'گواتمالا',
+      de: 'Guatemala',
+      es: 'Guatemala',
+      fr: 'Guatemala',
+      ja: 'グアテマラ',
+      it: 'Guatemala',
+      hu: 'Guatemala'
+    },
+    flag: 'https://flagcdn.com/gt.svg',
+    regionalBlocs: [ [Object] ],
+    cioc: 'GUA',
+    independent: true
+  },
+  {
+    name: 'Guernsey',
+    topLevelDomain: [ '.gg' ],
+    alpha2Code: 'GG',
+    alpha3Code: 'GGY',
+    callingCodes: [ '44' ],
+    capital: 'St. Peter Port',
+    altSpellings: [ 'GG', 'Bailiwick of Guernsey', 'Bailliage de Guernesey' ],  
+    subregion: 'Northern Europe',
+    region: 'Europe',
+    population: 62999,
+    latlng: [ 49.46666666, -2.58333333 ],
+    demonym: 'Channel Islander',
+    area: 78,
+    timezones: [ 'UTC+00:00' ],
+    nativeName: 'Guernsey',
+    numericCode: '831',
+    flags: {
+      svg: 'https://flagcdn.com/gg.svg',
+      png: 'https://flagcdn.com/w320/gg.png'
+    },
+    currencies: [ [Object], [Object] ],
+    languages: [ [Object], [Object] ],
+    translations: {
+      br: 'Guernsey',
+      pt: 'Guernsey',
+      nl: 'Guernsey',
+      hr: 'Guernsey',
+      fa: 'گرنزی',
+      de: 'Guernsey',
+      es: 'Guernsey',
+      fr: 'Guernesey',
+      ja: 'ガーンジー',
+      it: 'Guernsey',
+      hu: 'Guernsey'
+    },
+    flag: 'https://flagcdn.com/gg.svg',
+    independent: false
+  },
+  {
+    name: 'Guinea',
+    topLevelDomain: [ '.gn' ],
+    alpha2Code: 'GN',
+    alpha3Code: 'GIN',
+    callingCodes: [ '224' ],
+    capital: 'Conakry',
+    altSpellings: [ 'GN', 'Republic of Guinea', 'République de Guinée' ],       
+    subregion: 'Western Africa',
+    region: 'Africa',
+    population: 13132792,
+    latlng: [ 11, -10 ],
+    demonym: 'Guinean',
+    area: 245857,
+    gini: 33.7,
+    timezones: [ 'UTC' ],
+    borders: [ 'CIV', 'GNB', 'LBR', 'MLI', 'SEN', 'SLE' ],
+    nativeName: 'Guinée',
+    numericCode: '324',
+    flags: {
+      svg: 'https://flagcdn.com/gn.svg',
+      png: 'https://flagcdn.com/w320/gn.png'
+    },
+    currencies: [ [Object] ],
+    languages: [ [Object], [Object] ],
+    translations: {
+      br: 'Guiné',
+      pt: 'Guiné',
+      nl: 'Guinee',
+      hr: 'Gvineja',
+      fa: 'گینه',
+      de: 'Guinea',
+      es: 'Guinea',
+      fr: 'Guinée',
+      ja: 'ギニア',
+      it: 'Guinea',
+      hu: 'Guinea'
+    },
+    flag: 'https://flagcdn.com/gn.svg',
+    regionalBlocs: [ [Object] ],
+    cioc: 'GUI',
+    independent: true
+  },
+  {
+    name: 'Guinea-Bissau',
+    topLevelDomain: [ '.gw' ],
+    alpha2Code: 'GW',
+    alpha3Code: 'GNB',
+    callingCodes: [ '245' ],
+    capital: 'Bissau',
+    altSpellings: [ 'GW', 'Republic of Guinea-Bissau', 'República da Guiné-Bissau' ],
+    subregion: 'Western Africa',
+    region: 'Africa',
+    population: 1967998,
+    latlng: [ 12, -15 ],
+    demonym: 'Guinea-Bissauan',
+    area: 36125,
+    gini: 50.7,
+    timezones: [ 'UTC' ],
+    borders: [ 'GIN', 'SEN' ],
+    nativeName: 'Guiné-Bissau',
+    numericCode: '624',
+    flags: {
+      svg: 'https://flagcdn.com/gw.svg',
+      png: 'https://flagcdn.com/w320/gw.png'
+    },
+    currencies: [ [Object] ],
+    languages: [ [Object] ],
+    translations: {
+      br: 'Guiné-Bissau',
+      pt: 'Guiné-Bissau',
+      nl: 'Guinee-Bissau',
+      hr: 'Gvineja Bisau',
+      fa: 'گینه بیسائو',
+      de: 'Guinea-Bissau',
+      es: 'Guinea-Bisáu',
+      fr: 'Guinée-Bissau',
+      ja: 'ギニアビサウ',
+      it: 'Guinea-Bissau',
+      hu: 'Bissau-Guinea'
+    },
+    flag: 'https://flagcdn.com/gw.svg',
+    regionalBlocs: [ [Object] ],
+    cioc: 'GBS',
+    independent: true
+  },
+  {
+    name: 'Guyana',
+    topLevelDomain: [ '.gy' ],
+    alpha2Code: 'GY',
+    alpha3Code: 'GUY',
+    callingCodes: [ '592' ],
+    capital: 'Georgetown',
+    altSpellings: [ 'GY', 'Co-operative Republic of Guyana' ],
+    subregion: 'South America',
+    region: 'Americas',
+    population: 786559,
+    latlng: [ 5, -59 ],
+    demonym: 'Guyanese',
+    area: 214969,
+    gini: 45.1,
+    timezones: [ 'UTC-04:00' ],
+    borders: [ 'BRA', 'SUR', 'VEN' ],
+    nativeName: 'Guyana',
+    numericCode: '328',
+    flags: {
+      svg: 'https://flagcdn.com/gy.svg',
+      png: 'https://flagcdn.com/w320/gy.png'
+    },
+    currencies: [ [Object] ],
+    languages: [ [Object] ],
+    translations: {
+      br: 'Guiana',
+      pt: 'Guiana',
+      nl: 'Guyana',
+      hr: 'Gvajana',
+      fa: 'گویان',
+      de: 'Guyana',
+      es: 'Guyana',
+      fr: 'Guyane',
+      ja: 'ガイアナ',
+      it: 'Guyana',
+      hu: 'Guyana'
+    },
+    flag: 'https://flagcdn.com/gy.svg',
+    regionalBlocs: [ [Object], [Object] ],
+    cioc: 'GUY',
+    independent: true
+  },
+  {
+    name: 'Haiti',
+    topLevelDomain: [ '.ht' ],
+    alpha2Code: 'HT',
+    alpha3Code: 'HTI',
+    callingCodes: [ '509' ],
+    capital: 'Port-au-Prince',
+    altSpellings: [
+      'HT',
+      'Republic of Haiti',
+      "République d'Haïti",
+      'Repiblik Ayiti'
+    ],
+    subregion: 'Caribbean',
+    region: 'Americas',
+    population: 11402533,
+    latlng: [ 19, -72.41666666 ],
+    demonym: 'Haitian',
+    area: 27750,
+    gini: 41.1,
+    timezones: [ 'UTC-05:00' ],
+    borders: [ 'DOM' ],
+    nativeName: 'Haïti',
+    numericCode: '332',
+    flags: {
+      svg: 'https://flagcdn.com/ht.svg',
+      png: 'https://flagcdn.com/w320/ht.png'
+    },
+    currencies: [ [Object] ],
+    languages: [ [Object], [Object] ],
+    translations: {
+      br: 'Haiti',
+      pt: 'Haiti',
+      nl: 'Haïti',
+      hr: 'Haiti',
+      fa: 'هائیتی',
+      de: 'Haiti',
+      es: 'Haiti',
+      fr: 'Haïti',
+      ja: 'ハイチ',
+      it: 'Haiti',
+      hu: 'Haiti'
+    },
+    flag: 'https://flagcdn.com/ht.svg',
+    regionalBlocs: [ [Object] ],
+    cioc: 'HAI',
+    independent: true
+  },
+  {
+    name: 'Heard Island and McDonald Islands',
+    topLevelDomain: [ '.hm', '.aq' ],
+    alpha2Code: 'HM',
+    alpha3Code: 'HMD',
+    callingCodes: [ '672' ],
+    altSpellings: [ 'HM' ],
+    subregion: 'Antarctic',
+    region: 'Antarctic',
+    population: 0,
+    latlng: [ -53.1, 72.51666666 ],
+    demonym: 'Heard and McDonald Islander',
+    area: 412,
+    timezones: [ 'UTC+05:00' ],
+    nativeName: 'Heard Island and McDonald Islands',
+    numericCode: '334',
+    flags: {
+      svg: 'https://flagcdn.com/hm.svg',
+      png: 'https://flagcdn.com/w320/hm.png'
+    },
+    currencies: [ [Object] ],
+    languages: [ [Object] ],
+    translations: {
+      br: 'Ilha Heard e Ilhas McDonald',
+      pt: 'Ilha Heard e Ilhas McDonald',
+      nl: 'Heard- en McDonaldeilanden',
+      hr: 'Otok Heard i otočje McDonald',
+      fa: 'جزیره هرد و جزایر مک‌دونالد',
+      de: 'Heard und die McDonaldinseln',
+      es: 'Islas Heard y McDonald',
+      fr: 'Îles Heard-et-MacDonald',
+      ja: 'ハード島とマクドナルド諸島',
+      it: 'Isole Heard e McDonald',
+      hu: 'Heard-sziget és McDonald-szigetek'
+    },
+    flag: 'https://flagcdn.com/hm.svg',
+    independent: false
+  },
+  {
+    name: 'Vatican City',
+    topLevelDomain: [ '.va' ],
+    alpha2Code: 'VA',
+    alpha3Code: 'VAT',
+    callingCodes: [ '379' ],
+    capital: 'Vatican City',
+    altSpellings: [ 'Vatican', 'The Vatican' ],
+    subregion: 'Southern Europe',
+    region: 'Europe',
+    population: 451,
+    latlng: [ 41.9, 12.45 ],
+    demonym: 'Vatican',
+    area: 0.44,
+    timezones: [ 'UTC+01:00' ],
+    borders: [ 'ITA' ],
+    nativeName: 'Status Civitatis Vaticanae',
+    numericCode: '336',
+    flags: {
+      svg: 'https://flagcdn.com/va.svg',
+      png: 'https://flagcdn.com/w320/va.png'
+    },
+    currencies: [ [Object] ],
+    languages: [ [Object], [Object], [Object], [Object] ],
+    translations: {
+      br: 'Vaticano',
+      pt: 'Vaticano',
+      nl: 'Heilige Stoel',
+      hr: 'Sveta Stolica',
+      fa: 'سریر مقدس',
+      de: 'Heiliger Stuhl',
+      es: 'Santa Sede',
+      fr: 'Saint-Siège',
+      ja: '聖座',
+      it: 'Santa Sede',
+      hu: 'Vatikán'
+    },
+    flag: 'https://flagcdn.com/va.svg',
+    independent: true
+  },
+  ... 150 more items
+]
+Afghanistan Kabul https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg
+Åland Islands Mariehamn https://flagcdn.com/ax.svg
+Albania Tirana https://flagcdn.com/al.svg
+Algeria Algiers https://flagcdn.com/dz.svg
+American Samoa Pago Pago https://flagcdn.com/as.svg
+Andorra Andorra la Vella https://flagcdn.com/ad.svg
+Angola Luanda https://flagcdn.com/ao.svg
+Anguilla The Valley https://flagcdn.com/ai.svg
+Antarctica undefined https://flagcdn.com/aq.svg
+Antigua and Barbuda Saint John's https://flagcdn.com/ag.svg
+Argentina Buenos Aires https://flagcdn.com/ar.svg
+Armenia Yerevan https://flagcdn.com/am.svg
+Aruba Oranjestad https://flagcdn.com/aw.svg
+Australia Canberra https://flagcdn.com/au.svg
+Austria Vienna https://flagcdn.com/at.svg
+Azerbaijan Baku https://flagcdn.com/az.svg
+Bahamas Nassau https://flagcdn.com/bs.svg
+Bahrain Manama https://flagcdn.com/bh.svg
+Bangladesh Dhaka https://flagcdn.com/bd.svg
+Barbados Bridgetown https://flagcdn.com/bb.svg
+Belarus Minsk https://flagcdn.com/by.svg
+Belgium Brussels https://flagcdn.com/be.svg
+Belize Belmopan https://flagcdn.com/bz.svg
+Benin Porto-Novo https://flagcdn.com/bj.svg
+Bermuda Hamilton https://flagcdn.com/bm.svg
+Bhutan Thimphu https://flagcdn.com/bt.svg
+Bolivia (Plurinational State of) Sucre https://flagcdn.com/bo.svg
+Bonaire, Sint Eustatius and Saba Kralendijk https://flagcdn.com/bq.svg
+Bosnia and Herzegovina Sarajevo https://flagcdn.com/ba.svg
+Botswana Gaborone https://flagcdn.com/bw.svg
+Bouvet Island undefined https://flagcdn.com/bv.svg
+Brazil Brasília https://flagcdn.com/br.svg
+British Indian Ocean Territory Diego Garcia https://flagcdn.com/io.svg
+United States Minor Outlying Islands undefined https://flagcdn.com/um.svg       
+Virgin Islands (British) Road Town https://flagcdn.com/vg.svg
+Virgin Islands (U.S.) Charlotte Amalie https://flagcdn.com/vi.svg
+Brunei Darussalam Bandar Seri Begawan https://flagcdn.com/bn.svg
+Bulgaria Sofia https://flagcdn.com/bg.svg
+Burkina Faso Ouagadougou https://flagcdn.com/bf.svg
+Burundi Gitega https://flagcdn.com/bi.svg
+Cambodia Phnom Penh https://flagcdn.com/kh.svg
+Cameroon Yaoundé https://flagcdn.com/cm.svg
+Canada Ottawa https://flagcdn.com/ca.svg
+Cabo Verde Praia https://flagcdn.com/cv.svg
+Cayman Islands George Town https://flagcdn.com/ky.svg
+Central African Republic Bangui https://flagcdn.com/cf.svg
+Chad N'Djamena https://flagcdn.com/td.svg
+Chile Santiago https://flagcdn.com/cl.svg
+China Beijing https://flagcdn.com/cn.svg
+Christmas Island Flying Fish Cove https://flagcdn.com/cx.svg
+Cocos (Keeling) Islands West Island https://flagcdn.com/cc.svg
+Colombia Bogotá https://flagcdn.com/co.svg
+Comoros Moroni https://flagcdn.com/km.svg
+Congo Brazzaville https://flagcdn.com/cg.svg
+Congo (Democratic Republic of the) Kinshasa https://flagcdn.com/cd.svg
+Cook Islands Avarua https://flagcdn.com/ck.svg
+Costa Rica San José https://flagcdn.com/cr.svg
+Croatia Zagreb https://flagcdn.com/hr.svg
+Cuba Havana https://flagcdn.com/cu.svg
+Curaçao Willemstad https://flagcdn.com/cw.svg
+Cyprus Nicosia https://flagcdn.com/cy.svg
+Czech Republic Prague https://flagcdn.com/cz.svg
+Denmark Copenhagen https://flagcdn.com/dk.svg
+Djibouti Djibouti https://flagcdn.com/dj.svg
+Dominica Roseau https://flagcdn.com/dm.svg
+Dominican Republic Santo Domingo https://flagcdn.com/do.svg
+Ecuador Quito https://flagcdn.com/ec.svg
+Egypt Cairo https://flagcdn.com/eg.svg
+El Salvador San Salvador https://flagcdn.com/sv.svg
+Equatorial Guinea Malabo https://flagcdn.com/gq.svg
+Eritrea Asmara https://flagcdn.com/er.svg
+Estonia Tallinn https://flagcdn.com/ee.svg
+Ethiopia Addis Ababa https://flagcdn.com/et.svg
+Falkland Islands (Malvinas) Stanley https://flagcdn.com/fk.svg
+Faroe Islands Tórshavn https://flagcdn.com/fo.svg
+Fiji Suva https://flagcdn.com/fj.svg
+Finland Helsinki https://flagcdn.com/fi.svg
+France Paris https://flagcdn.com/fr.svg
+French Guiana Cayenne https://flagcdn.com/gf.svg
+French Polynesia Papeetē https://flagcdn.com/pf.svg
+French Southern Territories Port-aux-Français https://flagcdn.com/tf.svg        
+Gabon Libreville https://flagcdn.com/ga.svg
+Gambia Banjul https://flagcdn.com/gm.svg
+Georgia Tbilisi https://flagcdn.com/ge.svg
+Germany Berlin https://flagcdn.com/de.svg
+Ghana Accra https://flagcdn.com/gh.svg
+Gibraltar Gibraltar https://flagcdn.com/gi.svg
+Greece Athens https://flagcdn.com/gr.svg
+Greenland Nuuk https://flagcdn.com/gl.svg
+Grenada St. George's https://flagcdn.com/gd.svg
+Guadeloupe Basse-Terre https://flagcdn.com/gp.svg
+Guam Hagåtña https://flagcdn.com/gu.svg
+Guatemala Guatemala City https://flagcdn.com/gt.svg
+Guernsey St. Peter Port https://flagcdn.com/gg.svg
+Guinea Conakry https://flagcdn.com/gn.svg
+Guinea-Bissau Bissau https://flagcdn.com/gw.svg
+Guyana Georgetown https://flagcdn.com/gy.svg
+Haiti Port-au-Prince https://flagcdn.com/ht.svg
+Heard Island and McDonald Islands undefined https://flagcdn.com/hm.svg
+Vatican City Vatican City https://flagcdn.com/va.svg
+Honduras Tegucigalpa https://flagcdn.com/hn.svg
+Hungary Budapest https://flagcdn.com/hu.svg
+Hong Kong City of Victoria https://flagcdn.com/hk.svg
+Iceland Reykjavík https://flagcdn.com/is.svg
+India New Delhi https://flagcdn.com/in.svg
+Indonesia Jakarta https://flagcdn.com/id.svg
+Ivory Coast Yamoussoukro https://flagcdn.com/ci.svg
+Iran (Islamic Republic of) Tehran https://flagcdn.com/ir.svg
+Iraq Baghdad https://flagcdn.com/iq.svg
+Ireland Dublin https://flagcdn.com/ie.svg
+Isle of Man Douglas https://flagcdn.com/im.svg
+Israel Jerusalem https://flagcdn.com/il.svg
+Italy Rome https://flagcdn.com/it.svg
+Jamaica Kingston https://flagcdn.com/jm.svg
+Japan Tokyo https://flagcdn.com/jp.svg
+Jersey Saint Helier https://flagcdn.com/je.svg
+Jordan Amman https://flagcdn.com/jo.svg
+Kazakhstan Nur-Sultan https://flagcdn.com/kz.svg
+Kenya Nairobi https://flagcdn.com/ke.svg
+Kiribati South Tarawa https://flagcdn.com/ki.svg
+Kuwait Kuwait City https://flagcdn.com/kw.svg
+Kyrgyzstan Bishkek https://flagcdn.com/kg.svg
+Lao People's Democratic Republic Vientiane https://flagcdn.com/la.svg
+Latvia Riga https://flagcdn.com/lv.svg
+Lebanon Beirut https://flagcdn.com/lb.svg
+Lesotho Maseru https://flagcdn.com/ls.svg
+Liberia Monrovia https://flagcdn.com/lr.svg
+Libya Tripoli https://flagcdn.com/ly.svg
+Liechtenstein Vaduz https://flagcdn.com/li.svg
+Lithuania Vilnius https://flagcdn.com/lt.svg
+Luxembourg Luxembourg https://flagcdn.com/lu.svg
+Macao undefined https://flagcdn.com/mo.svg
+North Macedonia Skopje https://flagcdn.com/mk.svg
+Madagascar Antananarivo https://flagcdn.com/mg.svg
+Malawi Lilongwe https://flagcdn.com/mw.svg
+Malaysia Kuala Lumpur https://flagcdn.com/my.svg
+Maldives Malé https://flagcdn.com/mv.svg
+Mali Bamako https://flagcdn.com/ml.svg
+Malta Valletta https://flagcdn.com/mt.svg
+Marshall Islands Majuro https://flagcdn.com/mh.svg
+Martinique Fort-de-France https://flagcdn.com/mq.svg
+Mauritania Nouakchott https://flagcdn.com/mr.svg
+Mauritius Port Louis https://flagcdn.com/mu.svg
+Mayotte Mamoudzou https://flagcdn.com/yt.svg
+Mexico Mexico City https://flagcdn.com/mx.svg
+Micronesia (Federated States of) Palikir https://flagcdn.com/fm.svg
+Moldova (Republic of) Chișinău https://flagcdn.com/md.svg
+Monaco Monaco https://flagcdn.com/mc.svg
+Mongolia Ulan Bator https://flagcdn.com/mn.svg
+Montenegro Podgorica https://flagcdn.com/me.svg
+Montserrat Plymouth https://flagcdn.com/ms.svg
+Morocco Rabat https://flagcdn.com/ma.svg
+Mozambique Maputo https://flagcdn.com/mz.svg
+Myanmar Naypyidaw https://flagcdn.com/mm.svg
+Namibia Windhoek https://flagcdn.com/na.svg
+Nauru Yaren https://flagcdn.com/nr.svg
+Nepal Kathmandu https://flagcdn.com/np.svg
+Netherlands Amsterdam https://flagcdn.com/nl.svg
+New Caledonia Nouméa https://flagcdn.com/nc.svg
+New Zealand Wellington https://flagcdn.com/nz.svg
+Nicaragua Managua https://flagcdn.com/ni.svg
+Niger Niamey https://flagcdn.com/ne.svg
+Nigeria Abuja https://flagcdn.com/ng.svg
+Niue Alofi https://flagcdn.com/nu.svg
+Norfolk Island Kingston https://flagcdn.com/nf.svg
+Korea (Democratic People's Republic of) Pyongyang https://flagcdn.com/kp.svg    
+Northern Mariana Islands Saipan https://flagcdn.com/mp.svg
+Norway Oslo https://flagcdn.com/no.svg
+Oman Muscat https://flagcdn.com/om.svg
+Pakistan Islamabad https://flagcdn.com/pk.svg
+Palau Ngerulmud https://flagcdn.com/pw.svg
+Palestine, State of Ramallah https://flagcdn.com/ps.svg
+Panama Panama City https://flagcdn.com/pa.svg
+Papua New Guinea Port Moresby https://flagcdn.com/pg.svg
+Paraguay Asunción https://flagcdn.com/py.svg
+Peru Lima https://flagcdn.com/pe.svg
+Philippines Manila https://flagcdn.com/ph.svg
+Pitcairn Adamstown https://flagcdn.com/pn.svg
+Poland Warsaw https://flagcdn.com/pl.svg
+Portugal Lisbon https://flagcdn.com/pt.svg
+Puerto Rico San Juan https://flagcdn.com/pr.svg
+Qatar Doha https://flagcdn.com/qa.svg
+Republic of Kosovo Pristina https://flagcdn.com/xk.svg
+Réunion Saint-Denis https://flagcdn.com/re.svg
+Romania Bucharest https://flagcdn.com/ro.svg
+Russian Federation Moscow https://flagcdn.com/ru.svg
+Rwanda Kigali https://flagcdn.com/rw.svg
+Saint Barthélemy Gustavia https://flagcdn.com/bl.svg
+Saint Helena, Ascension and Tristan da Cunha Jamestown https://flagcdn.com/sh.svg
+Saint Kitts and Nevis Basseterre https://flagcdn.com/kn.svg
+Saint Lucia Castries https://flagcdn.com/lc.svg
+Saint Martin (French part) Marigot https://flagcdn.com/mf.svg
+Saint Pierre and Miquelon Saint-Pierre https://flagcdn.com/pm.svg
+Saint Vincent and the Grenadines Kingstown https://flagcdn.com/vc.svg
+Samoa Apia https://flagcdn.com/ws.svg
+San Marino City of San Marino https://flagcdn.com/sm.svg
+Sao Tome and Principe São Tomé https://flagcdn.com/st.svg
+Saudi Arabia Riyadh https://flagcdn.com/sa.svg
+Senegal Dakar https://flagcdn.com/sn.svg
+Serbia Belgrade https://flagcdn.com/rs.svg
+Seychelles Victoria https://flagcdn.com/sc.svg
+Sierra Leone Freetown https://flagcdn.com/sl.svg
+Singapore Singapore https://flagcdn.com/sg.svg
+Sint Maarten (Dutch part) Philipsburg https://flagcdn.com/sx.svg
+Slovakia Bratislava https://flagcdn.com/sk.svg
+Slovenia Ljubljana https://flagcdn.com/si.svg
+Solomon Islands Honiara https://flagcdn.com/sb.svg
+Somalia Mogadishu https://flagcdn.com/so.svg
+South Africa Pretoria https://flagcdn.com/za.svg
+South Georgia and the South Sandwich Islands King Edward Point https://flagcdn.com/gs.svg
+Korea (Republic of) Seoul https://flagcdn.com/kr.svg
+Spain Madrid https://flagcdn.com/es.svg
+Sri Lanka Sri Jayawardenepura Kotte https://flagcdn.com/lk.svg
+Sudan Khartoum https://flagcdn.com/sd.svg
+South Sudan Juba https://flagcdn.com/ss.svg
+Suriname Paramaribo https://flagcdn.com/sr.svg
+Svalbard and Jan Mayen Longyearbyen https://flagcdn.com/sj.svg
+Swaziland Mbabane https://flagcdn.com/sz.svg
+Sweden Stockholm https://flagcdn.com/se.svg
+Switzerland Bern https://flagcdn.com/ch.svg
+Syrian Arab Republic Damascus https://flagcdn.com/sy.svg
+Taiwan Taipei https://flagcdn.com/tw.svg
+Tajikistan Dushanbe https://flagcdn.com/tj.svg
+Tanzania, United Republic of Dodoma https://flagcdn.com/tz.svg
+Thailand Bangkok https://flagcdn.com/th.svg
+Timor-Leste Dili https://flagcdn.com/tl.svg
+Togo Lomé https://flagcdn.com/tg.svg
+Tokelau Fakaofo https://flagcdn.com/tk.svg
+Tonga Nuku'alofa https://flagcdn.com/to.svg
+Trinidad and Tobago Port of Spain https://flagcdn.com/tt.svg
+Tunisia Tunis https://flagcdn.com/tn.svg
+Turkey Ankara https://flagcdn.com/tr.svg
+Turkmenistan Ashgabat https://flagcdn.com/tm.svg
+Turks and Caicos Islands Cockburn Town https://flagcdn.com/tc.svg
+Tuvalu Funafuti https://flagcdn.com/tv.svg
+Uganda Kampala https://flagcdn.com/ug.svg
+Ukraine Kyiv https://flagcdn.com/ua.svg
+United Arab Emirates Abu Dhabi https://flagcdn.com/ae.svg
+United Kingdom of Great Britain and Northern Ireland London https://flagcdn.com/gb.svg
+United States of America Washington, D.C. https://flagcdn.com/us.svg
+Uruguay Montevideo https://flagcdn.com/uy.svg
+Uzbekistan Tashkent https://flagcdn.com/uz.svg
+Vanuatu Port Vila https://flagcdn.com/vu.svg
+Venezuela (Bolivarian Republic of) Caracas https://flagcdn.com/ve.svg
+Vietnam Hanoi https://flagcdn.com/vn.svg
+Wallis and Futuna Mata-Utu https://flagcdn.com/wf.svg
+Western Sahara El Aaiún https://flagcdn.com/eh.svg
+Yemen Sana'a https://flagcdn.com/ye.svg
+Zambia Lusaka https://flagcdn.com/zm.svg
+Zimbabwe Harare https://flagcdn.com/zw.svg
